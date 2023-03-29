@@ -43,15 +43,7 @@ else return false;
 
 //for loop needed? no
 return result;
+};
 //possible nested function to determine what factor is?? or parameter met once defined in body
-
+console.log(8, 4);
 //else return false
-}
-console.log(test(4, 2));
-
-//Other Solutions
-function checkForFactor (base, factor) {
-  return base % factor === 0;
-}
-
-const checkForFactor = (base, factor) => base % factor === 0;
