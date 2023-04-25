@@ -1,7 +1,7 @@
 //reverse order of a list
-function reverseList(list) {
-  reverse.list()
-}
+//function reverseList(list) {
+//  reverse.list()
+//}
 //P parameters/ obstacles?? special objects etc... none to discuss
 
 //R reverse the order of the lists 
@@ -18,3 +18,7 @@ function reverseList(list) {
 //Why is the argument list not defined still that it is in the local code body? 
 
 //Lists must be in brackets and separated by commas remember and understand that a list must be in brackets and separated by commas
+//
+
+
+//
