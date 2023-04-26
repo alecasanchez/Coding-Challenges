@@ -22,3 +22,5 @@ function sum(numbers) {
 // parameters numbers. return the numbers with method reduce (first, second ... add them or reduce to zero)
 
 // REDUCE is the keyword here
+
+// reduce build something on everysingle one. remember for loop.
